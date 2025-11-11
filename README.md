@@ -57,3 +57,4 @@ This project delivers an interactive Power BI dashboard analyzing a multi-countr
 - Integration with live restaurant data feeds.
 - Enhanced predictive analytics for trend forecasting.
 - Mobile-friendly dashboard versions.
+
